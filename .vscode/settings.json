@@ -3,6 +3,12 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "new": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
   }
 }
